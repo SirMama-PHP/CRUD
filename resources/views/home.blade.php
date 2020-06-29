@@ -40,6 +40,7 @@
                                     @endforeach
                                   
                                     <h1>Aman</h1>
+                                    <h2>Hasan</h2>
                                 </tbody>
                                 </table>
                             </div>
